@@ -3,7 +3,7 @@ page 80524 "Repeatetive Statements"
     PageType = Card;
     ApplicationArea = All;
     UsageCategory = Documents;
-    Caption = 'Repeatetive Statments';
+    Caption = 'Repeatetive Statements';
     
     
     layout
